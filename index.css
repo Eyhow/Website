@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+}
+
+body{
+    text-align: center;
+}
+
+.logosite {
+    width: 800px;
+    padding-top: 100px;
+  
+}
+
+footer {
+    background-color: #000000;
+    height: 320px;
+}
+
+.cliquez {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    font-size: 70px;
+}
+
+.titre {
+    text-align: center;
+    width: 100%;
+}
