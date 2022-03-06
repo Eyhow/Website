@@ -94,10 +94,6 @@ p {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-video{
-    border-radius: 60px;
-}
-
 .navigation_haut { 
     font-size: 20px;
     color: #463F32;
@@ -161,4 +157,8 @@ nav a {
 .motion{
     text-align: center;
     width: 115%;
+}
+
+video {
+    border-radius: 60px;
 }
